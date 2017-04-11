@@ -11,20 +11,20 @@ Typescript
 
 <div align="center">
   <!-- Dependency Status -->
-  <a href="https://david-dm.org/StrikeForceZero/react-typescript-boilerplate">
-    <img src="https://david-dm.org/StrikeForceZero/react-typescript-boilerplate.svg" alt="Dependency Status" />
+  <a href="https://david-dm.org/JimmyLv/demo-react-typescript-boilerplate">
+    <img src="https://david-dm.org/JimmyLv/demo-react-typescript-boilerplate.svg" alt="Dependency Status" />
   </a>
   <!-- devDependency Status -->
-  <a href="https://david-dm.org/StrikeForceZero/react-typescript-boilerplate?type=dev" title="devDependencies status">
-    <img src="https://david-dm.org/StrikeForceZero/react-typescript-boilerplate/dev-status.svg"/>
+  <a href="https://david-dm.org/JimmyLv/demo-react-typescript-boilerplate?type=dev" title="devDependencies status">
+    <img src="https://david-dm.org/JimmyLv/demo-react-typescript-boilerplate/dev-status.svg"/>
   </a>
   <!-- Build Status -->
-  <a href="https://travis-ci.org/StrikeForceZero/react-typescript-boilerplate">
-    <img src="https://travis-ci.org/StrikeForceZero/react-typescript-boilerplate.svg" alt="Build Status" />
+  <a href="https://travis-ci.org/JimmyLv/demo-react-typescript-boilerplate">
+    <img src="https://travis-ci.org/JimmyLv/demo-react-typescript-boilerplate.svg" alt="Build Status" />
   </a>
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/StrikeForceZero/react-typescript-boilerplate">
-    <img src="https://coveralls.io/repos/github/StrikeForceZero/react-typescript-boilerplate/badge.svg" alt="Test Coverage" />
+  <a href="https://coveralls.io/r/JimmyLv/demo-react-typescript-boilerplate">
+    <img src="https://coveralls.io/repos/github/JimmyLv/demo-react-typescript-boilerplate/badge.svg" alt="Test Coverage" />
   </a>
 </div>
 
