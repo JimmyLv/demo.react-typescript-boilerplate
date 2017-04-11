@@ -12,6 +12,7 @@
   "author": "Max Stoiber",
   "license": "MIT",
   "scripts": {
+    "yarn": "yarn install --pure-lockfile",
     "analyze:clean": "rimraf stats.json",
     "preanalyze": "npm run analyze:clean",
     "analyze": "node ./internals/scripts/analyze.js",

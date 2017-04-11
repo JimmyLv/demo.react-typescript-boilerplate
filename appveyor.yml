@@ -22,8 +22,9 @@ install:
   # Install the latest stable version of Node
   - ps: Install-Product node $env:nodejs_version
   - npm -g install npm
+  - npm -g install yarn
   - set PATH=%APPDATA%\npm;%PATH%
-  - npm install
+  - npm run yarn
 
 # Disable automatic builds
 build: off
